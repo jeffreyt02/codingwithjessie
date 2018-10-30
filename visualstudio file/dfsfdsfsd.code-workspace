@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:\\firebase-auth"
+		},
+		{
+			"path": "D:\\new_firestore"
+		},
+		{
+			"path": "D:\\react_firebase"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "react_firebase"
+    }
+}
